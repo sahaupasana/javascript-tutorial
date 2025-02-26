@@ -14,3 +14,17 @@ console.log(3
 console.log(typeof(null)); //result will  be object 
 console.log(typeof(undefined));//result will be undefined 
 
+let  num="33"
+let number =Number(num) //for converting any string into number 
+console.log(typeof number)
+console.log(number)
+/* all conversions
+33- 33
+33abc-NaN
+true -1
+NULL-0 
+*/
+//like Number String Boolean can also be used 
+
+
+
